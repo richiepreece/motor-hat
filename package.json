@@ -71,7 +71,7 @@
   "dependencies": {
     "async": "^2.5.0",
     "debug": "^3.1.0",
-    "i2c-bus": "^1.2.0",
+    "i2c-bus": "^2.0.0",
     "parambulator": "^1.5.2",
     "raspi-ver": "^1.0.2",
     "sleep": "^5.1.0"
